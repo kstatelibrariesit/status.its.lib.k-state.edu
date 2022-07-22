@@ -7,7 +7,7 @@ draft: false
 date: 2022-07-24 01:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "scheduled"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header

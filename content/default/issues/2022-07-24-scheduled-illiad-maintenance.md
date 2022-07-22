@@ -7,7 +7,7 @@ draft: false
 date: 2022-07-24 01:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "scheduled"
+status: "in_progress"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,7 +24,7 @@ max_severity: maintenance
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: ok
+current_severity: maintenance
 
 # Full date: 2019-03-29 17:26:09
 resolved_on: 2022-07-24 08:15:00
